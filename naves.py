@@ -17,7 +17,7 @@ pygame.display.set_caption("Naves")
 
 clock = pygame.time.Clock()
 
-naveImg = pygame.image.load("D:/Coding/misc/python/naves/nave2.png")
+naveImg = pygame.image.load("/naves/nave2.png")
 nave_width = 66
 nave_height = 82
 
